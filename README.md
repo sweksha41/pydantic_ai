@@ -1,3 +1,5 @@
+- Structured output with Pydantic
+  
 prerequisites:
 - Java 25
 - GROQ apikey generated from https://console.groq.com/ and added to environment variable
